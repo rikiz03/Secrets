@@ -128,3 +128,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+# A personal diary Web-App for secure secret and personal content storage
